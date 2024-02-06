@@ -1,0 +1,57 @@
+[
+   {
+      "id": "1",
+      "name": "The Enigmatic Island",
+      "title": "The Mystery of the Lost Continent",
+      "cover": "https://i.ibb.co/z58wKWs/flat-lay-black-background-with-laptop-coffee-cup-calculator-top-view.jpg",
+      "author": "Alicia Smith",
+      "author_img": "https://i.ibb.co/wSV0D0N/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "posted_date": "2024-02-05",
+      "reading_time": "45",
+      "hashtags": ["mystery", "adventure", "fiction"]
+   },
+   {
+      "id": "2",
+      "name": "Beyond the Horizon",
+      "title": "Exploring the Unknown",
+      "cover": "https://i.ibb.co/VvfkZLg/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+      "author": "Jonathan Doe",
+      "author_img": "https://i.ibb.co/wSV0D0N/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "posted_date": "2024-02-04",
+      "reading_time": "30",
+      "hashtags": ["exploration", "discovery", "science"]
+   },
+   {
+      "id": "3",
+      "name": "Echoes of Silence",
+      "title": "A Tale Untold",
+      "cover": "https://i.ibb.co/PhHy3Lj/flat-lay-work-space-with-notebook-keyboard-1.jpg",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/wSV0D0N/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "posted_date": "2024-02-03",
+      "reading_time": "60",
+      "hashtags": ["drama", "romance", "fiction"]
+   },
+   {
+      "id": "4",
+      "name": "Into the Abyss",
+      "title": "Journey to the Center of the Earth",
+      "cover": "https://i.ibb.co/cLvpxG5/social-media-business-concept-with-wooden-blocks-keyboard-glasses-pen-white-background-flat-lay.jpg",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/wSV0D0N/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "posted_date": "2024-02-02",
+      "reading_time": "75",
+      "hashtags": ["adventure", "journey", "fantasy"]
+   },
+   {
+      "id": "5",
+      "name": "Whispers in the Wind",
+      "title": "Secrets of the Whispering Forest",
+      "cover": "https://i.ibb.co/Jyw59zK/makeup-brush-eyeglasses-cactus-plant-white-flower-bouquet-with-laptop-blue-background.jpg",
+      "author": "Sophie Green",
+      "author_img": "https://i.ibb.co/wSV0D0N/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "posted_date": "2024-02-01",
+      "reading_time": "50",
+      "hashtags": ["mystery", "fantasy", "nature"]
+   }
+]
